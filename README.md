@@ -62,6 +62,7 @@ Google Books API este primul serviciu cloud utilizat în aplicație. Este un ser
 •	Furnizor: Google Cloud Platform
 •	Tip: REST API public, fără autentificare pentru căutari
 •	Format raspuns: JSON
+
 3.2 MongoDB Atlas
 MongoDB Atlas este al doilea serviciu cloud utilizat în aplicație. Este o bază de date NoSQL stocată în cloud, oferită de MongoDB, care asigură stocarea persistentă a cărților favorite ale utilizatorului.
 •	Furnizor: MongoDB Inc.
