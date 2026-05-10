@@ -35,6 +35,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+
+Book Explorer
+
+
+Realizat de: Pantelie Eva-Maria , Grupa 1047
+           
+            Link video: https://youtu.be/nfvc33blPHs
+            
+            Link publicare: https://cloud-computing-fyel-i830c0i0n-epantelies-projects.vercel.app/
+
 1. Introducere
 
 Book Explorer este o aplicație web care le permite utilizatorilor să descopere și să organizeze cărți de interes personal. Aplicația este construită folosind Next.js, un framework modern de dezvoltare web. Aceasta utilizează două servicii cloud pentru a oferi funcționalitate completă, ele fiind Google Books API pentru căutarea cărților și MongoDB Atlas pentru stocarea persistentă a datelor.
